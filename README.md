@@ -1,4 +1,4 @@
-# Qualifica-o_ML_HTLV
+# Mest_MBL2_ML_HTLV
 Codes in Python, to implementation of diverse models of Machine Learning, trying to promote prognosis in People Living with HTLV
 
 Divided into three documents:
@@ -6,8 +6,7 @@ Divided into three documents:
 - The second involved optimizing hyperparameters
 - And in the third, application of Explainable AI (XAI) methods 
 
-##**Notes/reminders:**
-
+**Notes/reminders:**
 * Clinical data has been excluded
 (because they will still be extracted from the medical records, classifying the oligosymptomatic patients separately, allowing a better evaluation of the machine)
 
