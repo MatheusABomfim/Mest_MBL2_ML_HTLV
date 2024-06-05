@@ -127,64 +127,44 @@ In the event of the presence of the above-mentioned symptoms associated with the
 #**Categorized data_3:**
 named as = cat_data_3
 
-- Urinary_symptoms:
- - Polyuria: 1 +
- - Neurogenic bladder: 2 +
- - Neurogenic bladder + urinary incontinence:3
- - Nocturia: 4 +
- - Nocturia + urinary incontinence: 5
- - Dysuria: 6
- - Dysuria + neurogenic bladder: 7
+ Urinary symptoms:
+- Polyuria: 1 +
+- Dysuria: 2
+- Urinary incontinence: 3
+- Nocturia: 4 +
 
-- Pain:
- - non-specific pain: 1
- - joint pain: 2
- - lower back pain: 3
- - lower limb pain: 4
- - lower limb pain + other site of pain: 5
+Pain:
+- non-specific pain: 1
+- Joint pain: 2
+- Lower back pain: 3
+- lower limb pain: 4
+- Lower limb pain + other site of pain: 5
 
-- Weakenes:
- - normal levels of strength: 0
- - weakness or lost of stregth: 1
+Neurological disorder/symptoms: The presence of any of the following variables caused the data set to be converted into the respective numbers described below:
+- Paresthesia: 1 
+- Paresis/weakness/loss of strength: 2 
+- Hypereflexia: 3 
+- Paresthesia/hypereflexia: 4 
+- Paresis/paresthesia: 5 
+- Spasticity: 6 
+- Hypereflexia/spasticity or gait: 7 
+- Paresis/spasticity or gait: 8 
+- Neurogenic bladder: 9
+- Neurogenic bladder+Paresthesia: 10
+- Neurogenic bladder+paresis: 11
 
-- Wandering:
- - normal walking: 0
- - abnormal walking: 1
-Use of a wheelchair included difficulty walking
-
-- Mental disorders:
+Mental disorders:
 The presence of any of the following variables caused the data set to be converted into the respective numbers described below:
- - psychotic breaks/compulsive crises: 1
- - insomnia: 2
- - outbreak/insomnia/crisis: 3
- - schizophrenia: 4
- - anxiety: 5
- - psychiatric illness: 6
- - anxiety/depression: 7
- - depression : 8
+ - Psychotic breaks/compulsive crises: 1
+ - Insomnia: 2
+ - Outbreak/insomnia/crisis: 3
+ - Schizophrenia: 4
+ - Anxiety: 5
+ - Psychiatric illness: 6
+ - Anxiety/depression: 7
+ - Depression : 8
 
-- Neurological disorder/symptoms:
-The presence of any of the following variables caused the data set to be converted into the respective numbers described below:
- - Paresthesia: 1
- - Paresis: 2
- - Hypereflexia: 3
- - Paresthesia/hypereflexia: 4
- - Weakness: 5
- - Weakness/paresthesia: 6
- - Weakness/paresis: 7
- - Numbness: 8
- - Spasticity: 9
- - Hypereflexia/spasticity or gait: 10
- - Paresis/spasticity or gait: 11
- - Loss of strength: 12
- - Loss of strength/paresthesia: 13
- - Loss of strength/paresis/spasticity or gait: 14
- - Hypermotility: 15
- - Paresthesia/hyperreflexia/hypermotricity: 16
- - Weakness: 17
- - Weakness/hypereflexia: 18
-
-- Chronic diseases:
+Chronic diseases:
  - Diabetes: 1
  - Obesity: 2
  - Diabetes/Obesity: 3
@@ -196,5 +176,4 @@ The presence of any of the following variables caused the data set to be convert
  - Hypertension: 9
  - Arthrosis/diabetes/hypertension: 10
  - Arthrosis/diabetes/hypertension: 11
-
 
