@@ -177,3 +177,4 @@ Chronic diseases:
  - Arthrosis/diabetes/hypertension: 10
  - Arthrosis/diabetes/hypertension: 11
 
+**updated version of the code and results is in the “Script_05_06_2024” folder**
